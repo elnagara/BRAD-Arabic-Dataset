@@ -48,4 +48,5 @@ You may refer to our paper, cited below, for details on the dataset.
 Please cite the following paper if you decise to use the dataset:
 Conference: Conference: 
 
-    Elnagar A., Einea O. BRAD 1.0: Book reviews in Arabic dataset. 2016 IEEE/ACS 13th International Conference of Computer Systems and Applications (AICCSA), pp. 1-8, Nov 2016. DOI: 10.1109/AICCSA.2016.7945800.
+    Elnagar A. and Einea O. 'BRAD 1.0: Book reviews in Arabic dataset'. 2016 IEEE/ACS 13th International Conference of 
+    Computer Systems and Applications (AICCSA), pp. 1-8, Nov 2016. DOI: 10.1109/AICCSA.2016.7945800.
